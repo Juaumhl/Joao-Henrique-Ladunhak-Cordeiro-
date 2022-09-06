@@ -1,0 +1,208 @@
+<html lang="en">
+
+ 
+
+<head>
+
+ 
+
+<meta charset="UTF-8">
+
+ 
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ 
+
+<title>Farmacia sucesso</title>
+
+</head>
+
+ 
+
+<body>
+
+<h1 style="color: red; font-size: 25px">FARMÁCIA SUCESSO</h1
+
+<p> Aqui na farmacia sucesso, você pode encontrar todo o remédio
+
+ 
+
+que precisar. Aqui temos remédios para: </p>
+
+ 
+
+<h3>
+
+ 
+
+<ul>
+
+ 
+
+<li> remédios para dores de cabeça</li>
+
+ 
+
+<li> remédios para dores corporais</li>
+
+ 
+
+<li> antidepressivos</li>
+
+ 
+
+<p>
+
+ 
+
+<h3> Aqui temos mais alguns remédios com descontos
+
+ 
+
+imperdiveis</h3>
+
+ 
+
+<ol type="I">
+
+ 
+
+<li></li>
+
+ 
+
+<img src="https://media.istockphoto.com/photos/antidepressant-medicine-drugs-box-picture-id962070746" alt="" srcset="" width="100px">
+
+ 
+
+Antidepressivo por apenas: R$ 22,90
+
+ 
+
+<p>
+
+ 
+
+<li></li>
+
+ 
+
+<img src="https://www.jnjbrasil.com.br/sites/default/files/content-images/tylenol_500mg_20cp-210x210.jpg" alt="" srcset="" width="100px">
+
+ 
+
+Tylenol por apenas: R$ 19,99
+
+ 
+
+</p>
+
+ 
+
+</ol>
+
+ 
+
+ 
+
+E ai, o quanto gostaram das promoçoẽs de hoje?
+
+ 
+
+<input type="intervalo">
+
+ 
+
+<h3>Aqui são os lugares onde você pode encontrar a nossa loja física:</h3>
+
+<table border="1"
+
+<tr>
+
+<th>
+
+Cidade
+
+</th>
+
+<th>
+
+Nome da rua e número
+
+</th>
+
+</tr>
+
+<tr>
+
+<td>Guarapuava</td>
+
+<td>Dalva Ribas Muller - 212</td>
+
+</tr>
+
+<tr>
+
+<td>Cascavel</td>
+
+<td>Serra redonda - 17 </td>
+
+</tr>
+
+</table>
+
+ 
+
+<p>
+
+ 
+
+<h3> Para mais informaçoẽs, entre em contato com o
+
+ 
+
+nosso whatsapp; </h3>
+
+ 
+
+<img
+
+ 
+
+src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" alt="" srcset="" width="25px">
+
+ 
+
+(42)12345689
+
+</p>
+
+ 
+
+</p>
+
+ 
+
+</ul>
+
+ 
+
+</h3>
+
+ 
+
+</h1>
+
+ 
+
+</body>
+
+ 
+
+</html>
+
